@@ -1,4 +1,3 @@
-![Memetic Logo](http://i.imgur.com/zLMetXi.png  "Memetic Logo") ![PepeCoin Logo](https://imgur.com/9KNdKWJ.png "PepeCoin Logo v2")
 ***
 # PepeCoin - PEPE  / Memetic - MEME
 #### v. 3.1.1.0
@@ -105,46 +104,13 @@ You can also the shell script at https://gist.github.com/cryptopepe/82b59b51680e
 # Links
 
 
-[Windows Wallet](https://github.com/memeticofficial/pepecoin-memetic/releases) 
+[Windows Wallet DEPRECIATED ](https://github.com/memeticofficial/pepecoin-memetic/releases) 
 
-[Bitcointalk ANN](https://bitcointalk.org/index.php?topic=1391598.0) 
-
-
-### Websites
-https://memetic.ai
-
-https://pepecoin.net
-
-https://kekdaq.com
-
-### Exchanges
-
-[Bittrex (Global)](https://global.bittrex.com/Market/Index?MarketName=BTC-MEME) -- Global site operating since c.2014
-[Txbit.io (Global)](https://txbit.io/Trade/MEME/BTC) -- No KYC CEX with BTC and USDT Pair
+[Bitcointalk ANN DEPRECIATED ](https://bitcointalk.org/index.php?topic=1391598.0) 
 
 
-
-### Block Explorer
-
-[http://explorer.memetic.ai/](http://explorer.memetic.ai/)
-
-### Charts
-
-[CoinMarketCap](https://coinmarketcap.com/currencies/pepecoin/)
-
-[CoinGekko](https://www.coingecko.com/en/coins/memetic)
-
-[WorldCoinIndex](https://www.worldcoinindex.com/coin/memetic)
-
-[CryptoCompare](https://www.cryptocompare.com/coins/meme/charts/BTC)
-
-[BitInfoCharts](https://bitinfocharts.com/markets/bittrex/meme-btc-1m.html)
-
-[CryptoCoinView](https://cryptocoinview.com/MEME)
-
-[CoinLib](https://coinlib.io/coin/MEME/Pepe+Memetic)
-
-[TradingView](https://www.tradingview.com/symbols/MEMEBTC/)
+### Websites 
+[Main Site](https://pepecoin.io)
 
 ### Social
 
@@ -152,33 +118,29 @@ https://kekdaq.com
 
 [Telegram](https://t.me/pepecoins)  - Official MEME / PEPE Support and Community Room
 
+------------------
+------------------
+Seednodes
+```addnode=seed.memetic.ai```
 
-***
+Bootstrap File 
+[Latest](https://snap.memetic.ai/latest.tar.gz/)
+------------------
+------------------
+PepeCoin Logo (V1 & V2) & Memetic Logo (V2 Full)
+------------------
+![Pepecoin](https://snap.memetic.ai/images/256x.png "Pepecoin") 
+![Pepecoin v2](https://i.imgur.com/xnSJvT9.jpg  "Pepecoin-v2") 
+![Memetic v2](https://i.imgur.com/Nepi5t1.png  "Memetic-v2")
 
-**Nodes**
-addnode=seed.memetic.ai
-
-Find Bootstrap at snap.memetic.ai/latest.tar.gz
-
-![pepecoin-256](https://i.imgur.com/xnSJvT9.jpg  "pepecoin-256")
 
 ------------------
 ------------------
-License
+License 
 ------------------
-##### Memetic / PepeCoin / Kekdaq are open source softwares released under the GNU GPL v2 license.  
-Copyright (c) 2009-2010 Satoshi Nakamoto
-Copyright (c) 2009-2012 The Bitcoin Developers
-Copyright (c) 2012 Litecoin Developers
-Copyright (c) 2013 Peercoin Developers
-Copyright (c) 2014 DarkCoin Developers
-Copyright (c) 2014 BlackCoin Developers
-Copyright (c) 2014 Digibyte Developers
-Copyright (c) 2014 DashCoin Developers
-Copyright (c) 2015 Transfercoin Developers
-Copyright (c) 2015-2016 PepeCoin Developers
-Copyright (c) 2015-2016 Memetic Developers
-Copyright (c) 2017-2019 Memetic / PepeCoin Developers
+##### Open-source software released under the GNU GPL v2 license ALL RIGHTS RESERVED ##### 
+
+Copyright (c) 2015-2024 PepeCoin Developers 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -198,6 +160,5 @@ THE SOFTWARE.
 The above copyright notices and this permission notice shall be included in
 all copies or substantial portions of the Software.
 
- See LICENSE file for more info.
-------------------
-![Original PepeCoin Logo](https://i.imgur.com/eJxc4B2.jpg "PepeCoin Logo v1") 
+See LICENSE for additional information and all COPYING and Copyright
+
