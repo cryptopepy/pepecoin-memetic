@@ -101,12 +101,41 @@ You can also the shell script at https://gist.github.com/cryptopepe/82b59b51680e
 >make -j2 -f Makefile USE_UPNP=0
 >
 --------------------
-# Links
 
+### Websites
+https://pepecoin.io
 
-[Windows Wallet DEPRECIATED ](https://github.com/memeticofficial/pepecoin-memetic/releases) 
+https://kek.space
 
-[Bitcointalk ANN DEPRECIATED ](https://bitcointalk.org/index.php?topic=1391598.0) 
+https://memetic.ai
+
+### Social
+
+[Twitter](https://twitter.com/pepecoins) 
+
+[Telegram](https://t.me/pepecoins) - Official MEME / PEPE Support and Community Room
+
+### Exchanges
+
+[Bittrex (USA)](https://bittrex.com/Market/Index?MarketName=BTC-MEME) -- Largest regulated and secure US exchange
+
+[Upbit (ASIA)](https://upbit.com/exchange?code=CRIX.UPBIT.BTC-MEME) -- Popular South Korean exchange
+
+[Changenow (Worldwide)](https://changenow.io/) -- Shapeshift type service accepting cc purchases
+
+[Coinswitch (Worldwide)](https://coinswitch.co/) -- Shapeshift type service
+
+[Coinexchange (EU)](https://www.coinexchange.io/market/MEME/BTC)
+
+<s>[Cryptopia](https://www.cryptopia.co.nz/Exchange?market=PEPE_BTC)</s> -- Remove requested after exchange hacked
+
+### Block Explorer
+
+[http://explorer.memetic.ai/](http://explorer.memetic.ai/)
+
+### Charts
+
+[CoinMarketCap](https://coinmarketcap.com/currencies/pepecoin/)
 
 
 ### Websites 
@@ -117,6 +146,13 @@ You can also the shell script at https://gist.github.com/cryptopepe/82b59b51680e
 [Twitter](https://twitter.com/pepecoins) 
 
 [Telegram](https://t.me/pepecoins)  - Official MEME / PEPE Support and Community Room
+
+# Links
+
+[Windows Wallet DEPRECIATED](https://github.com/pepeteam/pepecoin/releases) 
+
+[Bitcointalk ANN DEPRECIATED](https://bitcointalk.org/index.php?topic=1391598.0) 
+
 
 ------------------
 ------------------
