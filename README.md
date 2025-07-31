@@ -106,11 +106,11 @@ Or you can use the shell script at https://gist.github.com/cryptopepe/82b59b5168
 
 
 ### Websites
+https://pepecoin.io
+
+https://kek.space
+
 https://memetic.ai
-
-https://pepecoin.net
-
-https://kekdaq.com
 
 ### Exchanges
 
