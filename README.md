@@ -1,4 +1,3 @@
-![Memetic Logo](http://i.imgur.com/zLMetXi.png  "Memetic Logo") ![PepeCoin Logo](https://imgur.com/9KNdKWJ.png "PepeCoin Logo")
 ***
 # PepeCoin - PEPE  / Memetic - MEME
 #### v. 3.1.1.0
@@ -60,7 +59,7 @@ See [bitcointalk.org](https://bitcointalk.org/index.php?topic=1391598.0) post fo
  
 ### Windows Wallet
 
-[https://github.com/pepeteam/pepecoin/releases](https://github.com/pepeteam/pepecoin/releases)
+[https://github.com/memeticofficial/pepecoin-memetic/releases](https://github.com/memeticofficial/pepecoin-memetic/releases)
 
 
 #### Linux Builds:
@@ -73,22 +72,27 @@ Ubuntu 18.04+ or Debian 9+ is recommended.
 >
 >sudo apt-get install build-essential libtool autotools-dev automake pkg-config libevent-dev bsdmainutils libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-program-options-dev libboost-test-dev libboost-thread-dev libminiupnpc-dev libgmp3-dev libdb-dev libdb++-dev libgmp3-dev lzma-dev libssl1.0-dev zlib1g-dev zlib1g libgmp-dev 
 >	
->git clone https://github.com/pepeteam/pepecoin.git
+>git clone https://github.com/memeticofficial/pepecoin-memetic.git
 >
->cd pepecoin/src
+>cd pepecoin-memetic/src
 >
 >make -f makefile.unix USE_UPNP=-
 >
 >strip pepecoind
 >
 
-Or you can use the shell script at https://gist.github.com/cryptopepe/82b59b51680e13e5f1e08224bfdd71fc
+after successfully compiling you can may move pepecoind to run "globally" as an application by doing the following
+>cd pepecoin-memetic/src
+>
+>mv pepecoind /usr/bin
+
+You can also the shell script at https://gist.github.com/cryptopepe/82b59b51680e13e5f1e08224bfdd71fc to compile (remember to chmod +x to make script executable) for more info visit https://snap.memetic.ai/cheatsheet.txt
 
 #### Instructions for Building GUI Wallet
 
 >sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler qt5-default build-essential libtool autotools-dev automake pkg-config libevent-dev bsdmainutils libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-program-options-dev libboost-test-dev libboost-thread-dev libminiupnpc-dev libgmp3-dev libdb-dev libdb++-dev libgmp3-dev lzma-dev libssl1.0-dev zlib1g-dev zlib1g libgmp-dev
 >
->git clone https://github.com/pepeteam/pepecoin.git
+>git clone https://github.com/memeticofficial/pepecoin-memetic.git
 >
 >cd pepecoin 
 >
@@ -97,13 +101,6 @@ Or you can use the shell script at https://gist.github.com/cryptopepe/82b59b5168
 >make -j2 -f Makefile USE_UPNP=0
 >
 --------------------
-# Links
-
-
-[Windows Wallet](https://github.com/pepeteam/pepecoin/releases) 
-
-[Bitcointalk ANN](https://bitcointalk.org/index.php?topic=1391598.0) 
-
 
 ### Websites
 https://pepecoin.io
@@ -111,6 +108,12 @@ https://pepecoin.io
 https://kek.space
 
 https://memetic.ai
+
+### Social
+
+[Twitter](https://twitter.com/pepecoins) 
+
+[Telegram](https://t.me/pepecoins) - Official MEME / PEPE Support and Community Room
 
 ### Exchanges
 
@@ -134,19 +137,9 @@ https://memetic.ai
 
 [CoinMarketCap](https://coinmarketcap.com/currencies/pepecoin/)
 
-[CoinGekko](https://www.coingecko.com/en/coins/memetic)
 
-[WorldCoinIndex](https://www.worldcoinindex.com/coin/memetic)
-
-[CryptoCompare](https://www.cryptocompare.com/coins/meme/charts/BTC)
-
-[BitInfoCharts](https://bitinfocharts.com/markets/bittrex/meme-btc-1m.html)
-
-[CryptoCoinView](https://cryptocoinview.com/MEME)
-
-[CoinLib](https://coinlib.io/coin/MEME/Pepe+Memetic)
-
-[TradingView](https://www.tradingview.com/symbols/MEMEBTC/)
+### Websites 
+[Main Site](https://pepecoin.io)
 
 ### Social
 
@@ -154,36 +147,36 @@ https://memetic.ai
 
 [Telegram](https://t.me/pepecoins)  - Official MEME / PEPE Support and Community Room
 
+# Links
 
-***
+[Windows Wallet DEPRECIATED](https://github.com/pepeteam/pepecoin/releases) 
 
-**Nodes**
-addnode=seed.pepecoin.net
+[Bitcointalk ANN DEPRECIATED](https://bitcointalk.org/index.php?topic=1391598.0) 
 
-addnode=seed.memetic.ai
-
-addnode=seed.kekdaq.com
-
-
-![pepecoin-256](https://i.imgur.com/xnSJvT9.jpg  "pepecoin-256")
 
 ------------------
 ------------------
-License
+Seednodes
+```addnode=seed.memetic.ai```
+
+Bootstrap File 
+[Latest](https://snap.memetic.ai/latest.tar.gz/)
 ------------------
-##### Memetic / PepeCoin / Kekdaq are open source softwares released under the GNU GPL v2 license.  
-Copyright (c) 2009-2010 Satoshi Nakamoto
-Copyright (c) 2009-2012 The Bitcoin Developers
-Copyright (c) 2012 Litecoin Developers
-Copyright (c) 2013 Peercoin Developers
-Copyright (c) 2014 DarkCoin Developers
-Copyright (c) 2014 BlackCoin Developers
-Copyright (c) 2014 Digibyte Developers
-Copyright (c) 2014 DashCoin Developers
-Copyright (c) 2015 Transfercoin Developers
-Copyright (c) 2015-2016 PepeCoin Developers
-Copyright (c) 2015-2016 Memetic Developers
-Copyright (c) 2017-2019 Memetic / PepeCoin Developers
+------------------
+PepeCoin Logo (V1 & V2) & Memetic Logo (V2 Full)
+------------------
+![Pepecoin](https://snap.memetic.ai/images/256x.png "Pepecoin") 
+![Pepecoin v2](https://i.imgur.com/xnSJvT9.jpg  "Pepecoin-v2") 
+![Memetic v2](https://i.imgur.com/Nepi5t1.png  "Memetic-v2")
+
+
+------------------
+------------------
+License 
+------------------
+##### Open-source software released under the GNU GPL v2 license ALL RIGHTS RESERVED ##### 
+
+Copyright (c) 2015-2024 PepeCoin Developers 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -203,5 +196,5 @@ THE SOFTWARE.
 The above copyright notices and this permission notice shall be included in
 all copies or substantial portions of the Software.
 
- See LICENSE file for more info.
-------------------
+See LICENSE for additional information and all COPYING and Copyright
+
