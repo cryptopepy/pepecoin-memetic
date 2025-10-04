@@ -1,3 +1,5 @@
+Note: PepeCoin / Memetic was bridged to an Ethereum ERC-20 token in 2023. See links on [https://linktr.ee/pepecoins](https://linktr.ee/pepecoins) for more information.
+
 ***
 # PepeCoin - PEPE  / Memetic - MEME
 #### v. 3.1.1.0
